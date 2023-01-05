@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">GABS</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="takatak_prompt">Choose your county</string>
+    <string-array name="takatakahours_array">
+        <item>Thursday:8:30am-6:00pm</item>
+        <item>Friday:8:30am-6:00pm</item>
+        <item>Saturday:8:30am-6:00pm</item>
+        <item>Monday:8:30am-6:00pm</item>
+        <item>Tuesday:8:30am-6:00pm</item>
+        <item>Friday:8:30am-6:00pm</item>
+    </string-array>
+    <string-array name="garbagecom_array">
+        <item>Thursday:9:00am-6:00pm</item>
+        <item>Friday:9:00am-6:00pm</item>
+        <item>Saturday:9:00am-12:00pm</item>
+        <item>Monday:9:00am-6:00pm</item>
+        <item>Tuesday:9:00am-6:00pm</item>
+        <item>Friday:9:00am-6:00pm</item>
+    </string-array>
+    <string-array name="flashservices_array">
+        <item>Thursday:Open 24 hours</item>
+        <item>Friday:Open 24 hours</item>
+        <item>Saturday:Open 24 hours</item>
+        <item>Monday:Open 24 hours</item>
+        <item>Tuesday:Open 24 hours</item>
+        <item>Friday:Open 24 hours</item>
+    </string-array>
+    <string-array name="Nescoservices_array">
+        <item>Thursday:8:00am-5:00pm</item>
+        <item>Friday:8:00am-5:00pm</item>
+        <item>Saturday:8:00am-12:00pm</item>
+        <item>Monday:8:00am-5:00pm</item>
+        <item>Tuesday:8:00am-5:00pm</item>
+        <item>Friday:8:00am-5:00pm</item>
+    </string-array>
+    <string-array name="zoataka_array">
+        <item>Thursday:8:00am-5:00pm</item>
+        <item>Friday:8:00am-5:00pm</item>
+        <item>Saturday:8:00am-12:00pm</item>
+        <item>Monday:8:00am-5:00pm</item>
+        <item>Tuesday:8:00am-5:00pm</item>
+        <item>Friday:8:00am-5:00pm</item>
+    </string-array>
+    <string-array name="binsservices_array">
+        <item>Thursday:7:00am-5:00pm</item>
+        <item>Friday:7:00am-5:00pm</item>
+        <item>Saturday:7:00am-5:00pm</item>
+        <item>Monday:7:00am-5:00pm</item>
+        <item>Tuesday:7:00am-5:00pm</item>
+        <item>Friday:7:00am-5:00pm</item>
+    </string-array>
+
+</resources>

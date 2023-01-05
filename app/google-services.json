@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "893531630738",
+    "firebase_url": "https://authentication-de577.firebaseio.com",
+    "project_id": "authentication-de577",
+    "storage_bucket": "authentication-de577.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893531630738:android:1729c4c57aa5f74a56ca4b",
+        "android_client_info": {
+          "package_name": "com.example.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893531630738-i5d8l78vatv04tq9t15au2ih47j08dlh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.authentication",
+            "certificate_hash": "aaeffaf19631dda8df1d9bbcf58956933ccea5c8"
+          }
+        },
+        {
+          "client_id": "893531630738-q3bks370qgcbii9g2citt3p0jkesa2el.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFI4yW1p3OlW3agnhvYnVbAj-r_ZJTGyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893531630738-q3bks370qgcbii9g2citt3p0jkesa2el.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

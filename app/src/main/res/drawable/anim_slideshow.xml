@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:duration="2000"
+        android:drawable="@drawable/takataka"/>
+    <item
+        android:duration="2000"
+        android:drawable="@drawable/flash1"/>
+    <item
+        android:duration="2000"
+        android:drawable="@drawable/garbagedotcom1"/>
+    <item
+        android:duration="2000"
+        android:drawable="@drawable/bins1"/>
+    <item
+        android:duration="2000"
+        android:drawable="@drawable/zoataka"/>
+    <item
+        android:duration="2000"
+        android:drawable="@drawable/colnet1"/>
+    <item
+        android:duration="2000"
+        android:drawable="@drawable/takataka2"/>
+    <item
+        android:duration="200"
+        android:drawable="@drawable/garbagedotcom3"/>
+    <item
+        android:duration="200"
+        android:drawable="@drawable/colnet2"/>
+
+</animation-list>
