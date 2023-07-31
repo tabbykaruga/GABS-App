@@ -4,6 +4,8 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
+import java.lang.reflect.Array;
+
 public class OtherActivity extends AppCompatActivity {
 
     @Override
