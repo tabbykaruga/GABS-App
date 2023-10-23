@@ -14,21 +14,3 @@ public class MainActivity3 extends AppCompatActivity {
 
     }
 }
-    public static int MathChallenge(int num) {
-        // code goes here
-        if (num <= 1){
-            System.out.print("false");
-        }
-
-        for(int i = 2; i <= Math.sqrt(num); i++){
-            if(num % i == 0){
-                System.out.print("false");
-                break;
-            }else{
-                System.out.print("true");
-                break;
-            }
-        }
-            return num;
-    }
-}

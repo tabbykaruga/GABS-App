@@ -23,7 +23,6 @@ import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
 
-
 public class PrivateFragment extends Fragment {
 
     private Button btn_1,btn_2,btn_3,btn_4,btn_5,btn_6;
