@@ -11,9 +11,9 @@ It is an Android application that helps users to find the nearest private garbag
 
 <img src="https://github.com/tabbykaruga/GABS-App/assets/55752706/1e357fe2-56c1-4a8c-bfdb-de7458b7e6d3" alt="[alt text](https://github.com/tabbykaruga/GABS-App/assets/55752706/1e357fe2-56c1-4a8c-bfdb-de7458b7e6d3)" width="200" height="400">
 
-<img src="https://github.com/tabbykaruga/GABS-App/assets/55752706/afe9506a-f70d-4e98-8507-b9e07ef3036e" alt="[alt text](https://github.com/tabbykaruga/GABS-App/assets/55752706/afe9506a-f70d-4e98-8507-b9e07ef3036e)" width="200" height="400">
-
 <img src="https://github.com/tabbykaruga/GABS-App/assets/55752706/fc3b118b-133a-43e4-b407-b0fb7ababd8f" alt="[alt text](https://github.com/tabbykaruga/GABS-App/assets/55752706/fc3b118b-133a-43e4-b407-b0fb7ababd8f)" width="200" height="400">
+
+<img src="https://github.com/tabbykaruga/GABS-App/assets/55752706/afe9506a-f70d-4e98-8507-b9e07ef3036e" alt="[alt text](https://github.com/tabbykaruga/GABS-App/assets/55752706/afe9506a-f70d-4e98-8507-b9e07ef3036e)" width="200" height="400">
 
 <img src="https://github.com/tabbykaruga/GABS-App/assets/55752706/55b51582-3c00-4480-82e0-f29bda83668a" alt="[alt text](https://github.com/tabbykaruga/GABS-App/assets/55752706/55b51582-3c00-4480-82e0-f29bda83668a)" width="200" height="400">
 
