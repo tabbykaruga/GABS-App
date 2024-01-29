@@ -2,7 +2,6 @@
 It is an Android application that helps users to find the nearest private garbage collectors near them based on their location.
 
 ## GOOGLE MAPS INTERGRATION
-## GOOGLE SIGN IN
 ## FIREBASE CONSOLE
 
 <img src="https://github.com/tabbykaruga/GABS-App/assets/55752706/bfdca6a9-2655-41e3-b465-b2b3ed012251" alt="[alt text](https://github.com/tabbykaruga/GABS-App/assets/55752706/bfdca6a9-2655-41e3-b465-b2b3ed012251)" width="200" height="400">
